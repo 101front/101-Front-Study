@@ -1,0 +1,19 @@
+{
+  "name": "front-study-101",
+  "version": "0.0.1",
+  "description": "study and record about frontend tech",
+  "main": "index.js",
+  "authors": {
+    "name": "frank",
+    "email": "jongminfire@gmail.com"
+  },
+  "repository": "/front-study-101",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

@@ -1,4 +1,4 @@
 # GraphQL
 
-![GraphQL](/img/GraphQL/GraphQL.png)
+![GraphQL](/images/GraphQL/GraphQL.png)
 

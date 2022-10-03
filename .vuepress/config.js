@@ -9,6 +9,8 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
   themeConfig: {
+    smoothScroll: true,
+    logo: '/101-study.png',
     nav: [
       {
         text: 'Home',

@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const except = [".vuepress", ".git", "node_modules"];
+const except = [".vuepress", ".git", "node_modules", '.netlify'];
 
 const sidebar = {
 	baseOption: undefined,
@@ -11,17 +11,7 @@ const sidebar = {
 			return !except.includes(file) && fs.statSync(path.join(root, file)).isDirectory();
 		});
 
-		const sidebarRoot = [
-			{
-				title: HomeTitle,
-				path: !!this.baseOption ? this.baseOption : "/",
-				collapsable: true,
-				children: [],
-			},
-		];
-
-		const sidebarItems = getSidebarItems(dir, root);
-		const sidebar = Array.from(sidebarRoot.concat(sidebarItems));
+		const sidebar = getSidebarItems(dir, root);
 		return sidebar;
 	},
 };

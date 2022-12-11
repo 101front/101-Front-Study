@@ -2,8 +2,6 @@
 
 ### 🏠 [Homepage](101-frontstudy.netlify.app)
 
-<br/>
-
 ## Install
 
 ```sh
@@ -16,14 +14,6 @@ yarn install
 yarn build
 yarn dev
 ```
-
-<br/>
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-<br/>
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

@@ -1,9 +1,9 @@
 <template>
     <ParentLayout>
         <template #page-bottom >
-            <div id="comment-container">
+            <div id="comment-container" v-if="$page.path.replaceAll('/','') !== $page.title">
                 <div class="divider" />
-                <Comment v-bind:style="{width:'100%',maxWidth: '740px'}" />
+                <Comment v-bind:style="{width:'100%',maxWidth: '740px'}"  />
             </div>
         </template>
     </ParentLayout>

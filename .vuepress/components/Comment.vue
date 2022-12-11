@@ -32,5 +32,10 @@ export default {
       dom.appendChild(giscus) 
     }
   },
+  watch: {
+    $page() {
+        this.initGiscus();
+    }
+  }
 }
 </script>

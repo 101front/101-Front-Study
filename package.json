@@ -16,5 +16,8 @@
   "devDependencies": {
     "@giscus/vue": "^2.2.4",
     "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "readme-md-generator": "^1.0.0"
   }
 }

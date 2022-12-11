@@ -1,6 +1,6 @@
 <h1 align="center">Front Study 101</h1>
 
-### 🏠 [Homepage](101-frontstudy.netlify.app)
+### 🏠 [Homepage](https://101-frontstudy.netlify.app)
 
 ## Install
 

@@ -1,9 +1,9 @@
 <template>
-    <ParentLayout >
-        <template #page-bottom>
+    <ParentLayout>
+        <template #page-bottom >
             <div id="comment-container">
-                <div id="divider" />
-                <Comment class="content" v-bind:style="{width:'55%'}"/>
+                <div class="divider" />
+                <Comment v-bind:style="{width:'100%',maxWidth: '740px'}" />
             </div>
         </template>
     </ParentLayout>
@@ -25,12 +25,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
+    padding:1.5rem;
 }
 
-#divider {
+.divider {
     border-bottom: 1px solid #eaecef;
-    width: 55%;
     margin: 3rem 0;
+    width: 100%;
+    max-width: 740px;
 }
 </style>

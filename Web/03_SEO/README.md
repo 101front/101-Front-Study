@@ -19,9 +19,23 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
     - 구글 검색 결과 검색어 하단에 description 이 나와있음
     - <img width="595" alt="image" src="https://user-images.githubusercontent.com/105266104/216832549-e883ce3b-3d6d-4b2a-bf5d-d16b0581d46f.png">
     - <img width="688" alt="image" src="https://user-images.githubusercontent.com/105266104/216832614-ab641ed6-a0ba-49b0-b98b-3d519168c48f.png">
-
+  - img 에 대한 설명을 넣어주면 좋다
+- robots.txt 에 크롤링 범위 설정하기
+- sitemap 제작하고 검색 엔진에 제출
 
 
 ## SEO on React
 
-- React 는 SPA 형식의 
+- React 는 SPA 형식의 CSR(Client Side Rendering)을 지원한다.
+- CSR 은 SSR(Server Side Rendering)보다 챙겨야 할 것이 많다.
+- SSR 은 서버가 데이터 전송 시점에서 html 을 모두 그려서 주지만, CSR 은 클라이언트 js 에서 수행하기 때문에 없는 것으로 인식할 수 있는 경우가 많다.
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/105266104/216833829-a50aa69c-e1cc-4bc8-bb91-ae07b3f0f9b7.png">
+
+- 구글 서치 콘솔에서 Lighthouse 탭에 들어가면 SEO 점수를 체크할 수 있다.
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/105266104/216833829-a50aa69c-e1cc-4bc8-bb91-ae07b3f0f9b7.png">
+<img width="2048" alt="image" src="https://user-images.githubusercontent.com/105266104/216833779-1067b6a0-39f7-43be-9c27-7eb70fb0f4de.png">
+<img width="2048" alt="image" src="https://user-images.githubusercontent.com/105266104/216833787-bae161cf-0a0c-403a-b967-eb6e600c0036.png">
+<img width="2046" alt="image" src="https://user-images.githubusercontent.com/105266104/216833889-998c7bcd-5079-4760-a451-86922eb4b983.png">
+

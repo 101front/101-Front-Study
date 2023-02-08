@@ -68,15 +68,22 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 <img width="2389" alt="image" src="https://user-images.githubusercontent.com/105266104/217507784-097c787f-b1a0-4716-a16d-388331179069.png">
 
 - PDP
+  - Performence
+    - <img width="759" alt="image" src="https://user-images.githubusercontent.com/105266104/217554529-7e536221-b6d1-4b9e-bc8a-4f4382de0a97.png">
+    - 실제 class101 PDP 값을 확인해보자. 각 항목의 개별 점수를 체크할 수 있다.
+    - <img width="749" alt="image" src="https://user-images.githubusercontent.com/105266104/217554659-8e493939-aa30-4233-aac5-547a72225def.png">
+    - 성능 개선할 수 있는 요소들을 보여준다.
+  - Accessibility
+    - <img width="757" alt="image" src="https://user-images.githubusercontent.com/105266104/217555538-e3857a35-021f-48ea-b58d-ba0baa325c37.png">
+    - <img width="726" alt="image" src="https://user-images.githubusercontent.com/105266104/217556233-7bf1a289-b1b4-4221-ac77-62aa7127ee5e.png">
+  - Best Practices    
+    - <img width="765" alt="image" src="https://user-images.githubusercontent.com/105266104/217558099-4e393e22-b448-4c39-8c6f-cca49f3fe320.png">
+  - SEO
+    - <img width="752" alt="image" src="https://user-images.githubusercontent.com/105266104/217556703-b66e8393-83a5-4ea6-b0d6-b389a6988cdd.png">
+    - <img width="747" alt="image" src="https://user-images.githubusercontent.com/105266104/217557086-d88536dd-ed04-4b7a-95df-94635d58ebe9.png">
+    - alt 속성으로 인한 점수 감점
   
-<img width="759" alt="image" src="https://user-images.githubusercontent.com/105266104/217554529-7e536221-b6d1-4b9e-bc8a-4f4382de0a97.png">
-
-- 각 항목의 개별 점수를 체크할 수 있다.
-
-<img width="749" alt="image" src="https://user-images.githubusercontent.com/105266104/217554659-8e493939-aa30-4233-aac5-547a72225def.png">
-
-- 성능 개선할 수 있는 요소들을 보여준다.
-
+  
 ## SEO on React
 
 - React 는 SPA 형식의 CSR(Client Side Rendering)을 지원한다.

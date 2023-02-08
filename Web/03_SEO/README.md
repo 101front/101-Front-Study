@@ -4,11 +4,11 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 
 ## SEO 기본 개념
 
-- SEO(Search Engine Optimization), 용어 그대로 검색 엔진 최적화를 위해 사용됩니다.
-- 유저들은 검색엔진(구글/네이버 등)을 열고 특정 키워드를 입력해 검색합니다. 
-- 검색엔진 결과 페이지에서 웹사이트의 상위 노출을 시키는 작업이 SEO입니다. 
+- SEO(Search Engine Optimization), 용어 그대로 검색 엔진 최적화를 위해 사용된다.
+- 유저들은 검색엔진(구글/네이버 등)을 열고 특정 키워드를 입력해 검색한다. 
+- 검색엔진 결과 페이지에서 웹사이트의 상위 노출을 시키는 작업이 SEO
 - 검색 상위에 등록되는 것은 서비스의 노출에 직결되고, 이는 서비스의 매출에 영향을 준다.
-- 검색 된 첫페이지의 검색이탈율은 90%가 넘고, 다른 페이지로는 이동하지 않습니다. 1페이지의 5위까지 나오는 것이 바람직합니다.
+- 검색 된 첫페이지의 검색이탈율은 90%가 넘고, 다른 페이지로는 이동하지 않습니다. 1페이지의 5위까지 나오는 것이 바람직하다.
 
 ## 최적화를 위한 방법
 
@@ -33,13 +33,14 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
   - <img width="888" alt="image" src="https://user-images.githubusercontent.com/105266104/217543548-96c4720e-c224-4e98-9d77-8e75a60a444d.png">
 - 속도
 
-## SEO Score
+## SEO Score - using Lighthouse
+
+### What is Lighthouse?
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/105266104/216833829-a50aa69c-e1cc-4bc8-bb91-ae07b3f0f9b7.png">
 
 - 구글 서치 콘솔에서 Lighthouse 탭에 들어가면 SEO 점수를 체크할 수 있다.
 - 구글이 직접 운영하는 오픈소스
-
 
 | Category |	Desc |
 | -- | -- |
@@ -48,6 +49,8 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 | Best practices	| Best practices를 따라 개발되었는지 체크. 웹에 대한 표준 모범 사례를 따르고 있는지 확인. 콘솔 오류나 사용되지 않는 API, https 사용 여부 등 |
 | Accessibility |	접근성 체크. 폰트 사이즈, 메뉴간 간격, <img> 태그 alt 속성 존재, <html> 태그 lang 속성 존재, 배경색과 전경색의 대비가 충분한지 등 | 
 | SEO |	검색 엔진 수집 최적화 관련 측정 |
+  
+### 예시
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/105266104/216833829-a50aa69c-e1cc-4bc8-bb91-ae07b3f0f9b7.png">
 <img width="2048" alt="image" src="https://user-images.githubusercontent.com/105266104/216833779-1067b6a0-39f7-43be-9c27-7eb70fb0f4de.png">
@@ -65,6 +68,14 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 <img width="2389" alt="image" src="https://user-images.githubusercontent.com/105266104/217507784-097c787f-b1a0-4716-a16d-388331179069.png">
 
 - PDP
+  
+<img width="759" alt="image" src="https://user-images.githubusercontent.com/105266104/217554529-7e536221-b6d1-4b9e-bc8a-4f4382de0a97.png">
+
+- 각 항목의 개별 점수를 체크할 수 있다.
+
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/105266104/217554659-8e493939-aa30-4233-aac5-547a72225def.png">
+
+- 성능 개선할 수 있는 요소들을 보여준다.
 
 ## SEO on React
 

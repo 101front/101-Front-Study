@@ -36,6 +36,18 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/105266104/216833829-a50aa69c-e1cc-4bc8-bb91-ae07b3f0f9b7.png">
 <img width="2048" alt="image" src="https://user-images.githubusercontent.com/105266104/216833779-1067b6a0-39f7-43be-9c27-7eb70fb0f4de.png">
-<img width="2048" alt="image" src="https://user-images.githubusercontent.com/105266104/216833787-bae161cf-0a0c-403a-b967-eb6e600c0036.png">
+
+- Meta Main Site
+
 <img width="2046" alt="image" src="https://user-images.githubusercontent.com/105266104/216833889-998c7bcd-5079-4760-a451-86922eb4b983.png">
+
+- 101 Front Study
+
+<img width="2435" alt="image" src="https://user-images.githubusercontent.com/105266104/217508777-53089cfb-7e22-44a2-88bb-ca73e2700a54.png">
+
+- Main Page
+
+<img width="2389" alt="image" src="https://user-images.githubusercontent.com/105266104/217507784-097c787f-b1a0-4716-a16d-388331179069.png">
+
+- PDP
 

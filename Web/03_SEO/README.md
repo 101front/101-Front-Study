@@ -25,6 +25,7 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
   - img 에 대한 설명을 넣어주면 SEO 에 도움이 된다
   - meta 태그의 title 
   - h 태그를 적절하게 잘 활용
+    - h1 이 2개 있는 경우에 meta 로 구글 검색어 노출이 되는 케이스 확인
 - 크롤링 관련 설정
   - robots.txt 에 크롤링 범위 설정하기
   - sitemap 제작하고 검색 엔진에 제출
@@ -49,9 +50,10 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 | Performance |	로딩 속도 등 성능을 측정 |
 | Progressive Web App |	PWA는 웹과 네이티브 앱이 잘 구성되었는지 체크. 3G 네트워크에서도 로딩 잘 되는지 등 |
 | Best practices	| Best practices를 따라 개발되었는지 체크. 웹에 대한 표준 모범 사례를 따르고 있는지 확인. 콘솔 오류나 사용되지 않는 API, https 사용 여부 등 |
-| Accessibility |	접근성 체크. 폰트 사이즈, 메뉴간 간격, <img> 태그 alt 속성 존재, <html> 태그 lang 속성 존재, 배경색과 전경색의 대비가 충분한지 등 | 
-| SEO |	검색 엔진 수집 최적화 관련 측정 |
-  
+| Accessibility |	접근성 체크. 폰트 사이즈, 메뉴간 간격, \<img\> 태그 alt 속성 존재, \<html\> 태그 lang 속성 존재, 배경색과 전경색의 대비가 충분한지 등 | 
+| SEO |	검색 엔진 수집 최적화 관련 측정 |  
+
+
 ### 예시
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/105266104/216833829-a50aa69c-e1cc-4bc8-bb91-ae07b3f0f9b7.png">
@@ -90,6 +92,8 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 
 - React 는 SPA 형식의 CSR(Client Side Rendering)을 지원한다.
 - CSR 은 SSR(Server Side Rendering)보다 챙겨야 할 것이 많다.
+- [SPA에서 서버사이드랜더링 하지 않고 SEO 우회하기](https://daeguowl.tistory.com/187)
+- 
 
 ### CSR 의 문제점
 

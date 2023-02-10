@@ -105,11 +105,8 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
     - react-helmet 사용 예시
 - [React 검색 엔진 최적화(SEO)하기](https://starlight-j-h.tistory.com/107?category=1021682)
   - sitemap 을 직접 생성하는 간단한 예제
-
-
-### 해결 방법
-
-- 예시 : [SPA에서 서버사이드랜더링 하지 않고 SEO 우회하기](https://daeguowl.tistory.com/187)
+- [SPA에서 서버사이드랜더링 하지 않고 SEO 우회하기](https://daeguowl.tistory.com/187)
+- [react에서 SEO](https://velog.io/@ouo_yoonk/react%EC%97%90%EC%84%9C-SEO)
 
 ### 해결 방법
 
@@ -119,7 +116,6 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 - 검색 봇(크롤러)가 읽을 수 있도록 렌더링 된 페이지를 전달
 - 라이브러리 종류 : react-helmet, prerender-spa-plugin, prerender.io, puppeteer, rendertron
 
-
 ### SSR
 
 - SSR 은 서버가 데이터 전송 시점에서 html 을 모두 그려서 주기 때문에 별도의 처리를 해줄 필요가 없다.
@@ -127,8 +123,7 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 
 ### History API
   
-- SPA 에서 주소가 바뀌지 않는 문제를 해결하기 위해 주소를 부여
-- 
+- SPA 에서 주소가 바뀌지 않는 문제를 해결하기 위해 주소가 없는 페이지에 주소를 부여
 
 ---
 

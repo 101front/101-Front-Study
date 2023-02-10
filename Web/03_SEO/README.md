@@ -99,6 +99,9 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
 - 검색 엔진에 따라 js 파일을 읽을 수 있는지 여부가 다르다(구글만 가능한 것으로 보임). 
   - js 파일을 읽을 수 있는 경우도 봇 할당량이 높아져서 비추천(확인 필요)
 - ~~Meta 태그가 바뀌지 않는다~~ (class101 사이트 확인 결과 잘 바뀜)
+
+### 해결 방법
+
 - [SPA 에서 SEO 적용하기](https://mygumi.tistory.com/385) 참고해보기
   - 꽤나 많은 추가작업이 필요하다. 하기의 내용들이 잘 나와있다.
     - SPA 에서 크롤링이 잘 안되는 이유
@@ -107,8 +110,6 @@ SEO(Search Engine Optimization) `검색엔진 최적화`에 대해서 알아보�
   - sitemap 을 직접 생성하는 간단한 예제
 - [SPA에서 서버사이드랜더링 하지 않고 SEO 우회하기](https://daeguowl.tistory.com/187)
 - [react에서 SEO](https://velog.io/@ouo_yoonk/react%EC%97%90%EC%84%9C-SEO)
-
-### 해결 방법
 
 #### Pre-Rendering
 
